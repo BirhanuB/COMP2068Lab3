@@ -35,6 +35,11 @@
     <Content Include="package.json" />
     <Content Include="public\stylesheets\main.css" />
     <Content Include="README.md" />
+    <Content Include="views\birhanu.pug" />
+    <Content Include="views\yeabsira.pug" />
+    <Content Include="views\wondwosen.pug" />
+    <Content Include="views\adey.pug" />
+    <Content Include="views\abiyot.pug" />
     <Content Include="views\header.pug" />
     <Content Include="views\footer.pug" />
     <Content Include="views\bogale.pug" />
